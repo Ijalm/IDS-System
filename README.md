@@ -7,7 +7,7 @@ Advanced Multi-Model Intrusion Detection System Using KDD Dataset
 
 🔹 Project Description
 
-Design and implement an Advanced Multi-Model Intrusion Detection System (IDS) using machine learning techniques to detect and classify network intrusions. The system will utilize the KDDTrain+.txt and KDDTest+.txt datasets to train and evaluate multiple classification algorithms. The objective is to compare the performance of different machine learning models and identify the most effective one for intrusion detection.
+Design and implement an Advanced Multi-Model Intrusion Detection System (IDS) using machine learning techniques to detect and classify network intrusions. The system will utilize the KDDTrain+.txt and KDDTest+.txt datasets to train and evaluate multiple classification algorithms. The objective is to compare the performance of different machine learning models and identify the most effective one for intrusion detection with also live testing . 
 
 Evaluate models using:
 

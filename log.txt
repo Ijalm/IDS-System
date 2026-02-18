@@ -1,0 +1,30 @@
+============================================================
+IDS LOG STARTED: 2026-02-17 16:40:18.772266
+============================================================
+
+Timestamp    Type       Detail
+------------------------------------------------------------
+[16:40:18] DOS ATTACK DETECTED - Packet #1
+[16:40:18] DOS ATTACK DETECTED - Packet #2
+[16:40:19] PROBE ATTACK DETECTED - Packet #4
+[16:40:19] DOS ATTACK DETECTED - Packet #13
+[16:40:19] DOS ATTACK DETECTED - Packet #14
+[16:40:20] DOS ATTACK DETECTED - Packet #20
+[16:40:20] DOS ATTACK DETECTED - Packet #21
+[16:40:20] DOS ATTACK DETECTED - Packet #22
+[16:40:20] DOS ATTACK DETECTED - Packet #25
+[16:40:21] DOS ATTACK DETECTED - Packet #26
+[16:40:21] DOS ATTACK DETECTED - Packet #29
+[16:40:21] DOS ATTACK DETECTED - Packet #31
+[16:40:21] PROBE ATTACK DETECTED - Packet #34
+[16:40:21] PROBE ATTACK DETECTED - Packet #35
+[16:40:22] DOS ATTACK DETECTED - Packet #41
+[16:40:22] DOS ATTACK DETECTED - Packet #45
+[16:40:22] DOS ATTACK DETECTED - Packet #47
+[16:40:23] DOS ATTACK DETECTED - Packet #48
+[16:40:23] DOS ATTACK DETECTED - Packet #49
+[16:40:23] DOS ATTACK DETECTED - Packet #53
+[16:40:23] DOS ATTACK DETECTED - Packet #54
+
+Session Stopped. Total Packets: 54
+========================================
